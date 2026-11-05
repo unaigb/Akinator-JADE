@@ -1,0 +1,11 @@
+# Eclipse / compilado
+bin/
+.settings/
+*.class
+
+# Librerías de terceros (ver README)
+lib/*.jar
+
+# Ficheros que genera JADE al ejecutarse
+APDescription.txt
+MTPs-Main-Container.txt
