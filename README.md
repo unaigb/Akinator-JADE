@@ -129,6 +129,7 @@ La hoja original de fichas con las fotos de los personajes no se incluye por tra
 **Unai García** — Grado en Ingeniería Informática (Universidad de Salamanca)
 
 - 🐙 GitHub: [@unaigb](https://github.com/unaigb)
+- 🌐 Portfolio: [unaigb.dev](https://unaigb.dev)
 
 ---
 
